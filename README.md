@@ -1,1 +1,1 @@
-# dApps-simpleRegistry-contract
+# DEPLOYED CONTRACT ADDRESS: 0xFA4F3F6cC56cCac838b0fa56ec019E81f331d50f
